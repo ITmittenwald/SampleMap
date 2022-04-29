@@ -39,7 +39,7 @@ L.geolet({
 L.Routing.control({
     waypoints: [
         L.latLng(47.267222, 11.392778),
-        L.latLng(47.4407651353172, 11.256954091639454)
+        L.latLng(48.13747942571567, 11.607989447952551)
     ]
 }).addTo(map);
 
